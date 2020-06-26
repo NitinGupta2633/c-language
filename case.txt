@@ -1,0 +1,353 @@
+Bhopal Gas Tragedy 
+Bhopal and Union Carbide Subsidiary
+Union Carbide Corporation, USA: Indian subsidiary Union Carbide India Ltd (UCIL), Bhopal, 
+Carbaryl Production Reaction:
+Monomethylamine+ phosgene                             Methyl Isocyanate (MIC) Methyl  Isocyanate (MIC)+alpha Napthol                     Carbaryl Maximum permissible limit for MIC storage: half a ton
+Mishap
+Operator was asked to wash the piping around one of the three MIC storage tanks at 10.15 pm Sunday, December 2, 1984, suspecting a leak Valve of the tank was blinded off to prevent ingress of water, as it would initiate an exothermic polymerization reaction At 11 pm, an increase in pressure was observed in the tank At around 11. 30 pm, operator sensed irritation in eyes, due to the leak of MIC
+Activities that led to the Tragedy
+Increase in temperature and pressure, led to the lifting of relief valve and MIC vapour discharged Protective equipments were either out of order or not in full working order
+Refrigeration system was shut down Scrubbing system was not immediately available
+Flare system was out of use
+The Disaster
+At midnight,  due to the built up of excessive pressure, the rupture disk burst and blew off the safety valve and MIC escaped into the atmosphere through vent line. 
+Early hours of December 3, 1984
+Immediate death: 8,000
+Permanent disability: 250,000
+After 14 yrs, death toll: 16,000
+Continuous Suffering: 120,000
+Health Hazard of Bhopal Gas Tragedy
+•Pulmonary edema was the cause of death in most cases, with many deaths resulting from secondary respiratory infections such as bronchitis and bronchial pneumonia
+•Other effects noted from acute inhalation exposure to methyl isocyanate in humans are respiratory tract irritation, difficulty breathing, blindness, nausea, gastritis, sweating, fever, chills, and liver and kidney damage. Survivors continue to exhibit damage to the lungs (e.g., bronchoalveolar lesions and decreased lung function) and the eyes (e.g., loss of vision, loss of visual acuity, and cataracts)
+Health Hazard of Bhopal Gas Tragedy
+• Unusually high percentage of survivors had disorders of the reproductive system, including leukorrhea, pelvic inflammatory disease, excessive menstrual bleeding, and suppression of lactation. Other adverse effects included increases in the number of stillbirths, spontaneous abortions, and increased infant mortality 
+Management Apathy
+Chief Medical Officer and Works Manager of UC: MIC is an acute irritant, but certainly not lethal
+Director of Health, Safety and Environment of UC: a potent tear gas, nothing more than that
+MD of UC: unexplained incident
+Medical Professionals: technical information and possible antidotes Investigation and Enquiry: no system safety engineering and management established and practised in UC, at Bhopal, inspite of having a Directorate of Health, Safety and Environmental Affairs
+Entire disaster: no parallel in world history
+Errors Commited by the Management
+Adequate in built safety systems: not provided
+Failure of Five safety systems: Vent gas scrubber, flare stack, water curtain, refrigeration system and spare storage tank
+Safe operating procedures were not laid out and followed under strict supervision
+Total lack of on site and off site emergency control measures
+No hazard and operability study (HAZOP) was carried out on the design and no follow up by any risk analysis
+Evacuation drills for fire and release of toxic gases were never held and practiced
+Local authorities: never informed of hazard, danger signals and warnings
+Errors Commited by the Management
+As part of UCC's drive to cut costs, the work force in the Bhopal factory was brought down by half from 1980 to 1984. 
+This had serious consequences on safety and maintenance. The size of the work crew for the MIC plant was cut in half from twelve to six workers. The maintenance supervisor position had been eliminated and there was no maintenance supervisor. 
+The period of safety-training to workers in the MIC plant was brought down from 6 months to 15 days.
+	Institute, West Virginia, USA	Bhopal, Madhya Pradesh, India
+Capacity	High production of MIC matched with high processing capacity. MIC not stored for long periods of time.	High production capacity of MIC but low processing capacity. MIC stored in large quantities for long periods of time.
+Emergency scrubbers	MIC storage tank equipped with emergency scrubbers designed to operate under emergency conditions	No emergency caustic scrubber to neutralize any MIC leak.
+Computerize d monitoring	Computerized monitoring of instruments (gauges, alarms, etc) and processes to support visual observation.	No computerized monitoring of instruments and processes. Relied solely on manual observation.
+Cooling system	MIC field storage tanks used a cooling system based on chloroform (inert and nonreactive with MIC).	MIC tanks used a cooling system based on brine (highly reactive with MIC).
+Refrigeration unit	Refrigeration unit to control temperature in the tanks was never turned off.	Refrigeration unit had been turned off since June 1984.
+Nitrogen pressure	MIC was always maintained under nitrogen pressure.	MIC tanks had not been under nitrogen pressure since October 1984.
+Safety Measures in UCC Plants - the USA and India 
+	Institute, West Virginia, USA	Bhopal, Madhya Pradesh, India
+Emergency plan	An elaborate four-stage emergency plan to deal with toxic releases, fires, etc, including a general public alert linked to community police, river and rail traffic and local radio stations. Various emergency broadcast systems in place to alert and disseminate appropriate information to the public.	No system to inform public authorities or the people living adjacent to the plant. No emergency plan shared with communities living adjacent to the plant; no system to disseminate information regarding emergency to the public with the exception of a loud siren.
+Maintenance programme	A maintenance programme to determine and evaluate replacement frequency for valves and instrumentation and alarm systems. Weekly review of safety valves and reviews and maintenance recorded extensively.	No evidence of an effective instrument maintenance programme. Safety valve testing programme largely ineffective and no proper records maintained of reviews of instruments, valves and alarm systems, etc.
+Lab analysis	A lab analysis of MIC was conducted to test quality and check for contamination prior to storage, processing or distribution.	No lab analysis of quality was undertaken. MIC stored for long periods without testing for contamination.
+Training	Extensive employee training programme to ensure high level of training and information among all employees of normal and emergency procedures.	Operators put in charge without sufficient training.
+Protective equipment	Extensive provision of appropriate personal protective equipment to employees including protective clothing, air respirators, etc.	Personal protective gear and breathing air equipment not easily accessible, inadequate and of poor quality.
+ 
+Ground Water 
+Contamination 
+Lessons to be Learnt
+Wherever and whenever possible, we should reduce or eliminate inventories of hazardous materials, in process and in storage
+An alternative to intermediate storage is substitution, i.e., using a safer material or route, especially when reducing inventories, or intensification as it is called, is not practicable : Makhteshim (choloroformate ester)
+Just as “ materials which are not there cannot leak,” “people who are not there cannot be killed”
+For major hazard installations like the Bhopal plant, hazard and operability study (HAZOP) should be carried out on the design as it is a powerful tool for identifying routes by which contamination and other unwanted deviations can occur
+Lessons to be Learnt (Cont…)
+Keep  protective equipment in working order and size it correctly
+Safe operating procedures are to be  maintained on regular schedule
+Training in Loss Prevention
+Handling ‘on-site’ and ‘off site’ emergencies 
+Remediation Plan
+ 
+Bhopal Gas Tragedy Aftermath: Development of Environmental Policy in India
+Following the Bhopal gas leak the Factories Act of 1948 was amended and a new chapter on Hazardous Industries added in 1987. This amendment also incorporated some of the Supreme Court pronouncements on industrial safety made in the context of an oleum gas leak in New Delhi in 1986.
+In 1985 the Government of India enacted the Bhopal Gas Claims Act and appropriated to itself the sole privilege of representing the victims of the disaster. The Act also laid down an elaborate mechanism of processing victims’ claims for compensation including medical categorisation.
+Environment Protection Act, 1986 
+• The Environment Protection Act was passed in 1986, creating the Ministry of Environment and Forests (MoEF) and strengthening India's commitment to the environment. Under the new act, the MoEF was given overall responsibility for administering and enforcing environmental laws and policies. It established the importance of integrating environmental strategies into all industrial development plans for the country.
+Public Liability Insurance Act (PLIA) 1991 
+•	In 1991, India enacted the Public Liability Insurance Act (PLIA) to provide for interim compensation on a no-fault basis
+•	The PLIA was an attempt to use insurance as a risk spreading exercise which would enable the immediate payment of minimal amounts as an interim measure
+•	This would cover not only Bhopal-like incidents but the multitude of mini-Bhopals that are a regular occurrence
+Establishment of National Green Tribunal 
+•	The Supreme Court of India laid down the foundation of Environmental Courts in India 
+•	Government of India enacted the National Green 
+Tribunal Act, 2010 to fulfill the long standing demand.
+ 
+in USA after Bhopal Tragedy
+In 1990, two major developments in U.S. process safety occurred: the publication of a proposed standard from the Occupational Safety and 
+Health Administration (OSHA), titled “Process Safety Management of Highly 
+Hazardous Chemicals,” and the passage by the U.S. Congress of the Clean Air Act Amendments (CAAA) of 1990. The CAAA provided regulatory oversight of process safety in the chemical industry to OSHA and the U.S. 
+Environmental Protection Agency (EPA).
+in USA after Bhopal Tragedy
+Process safety management (PSM) was developed after the Bhopal accident (1985), to prevent similar accidents
+Sets general requirements for the management of hazardous chemicals The PSM standard has 14 major sections: employee participation, process safety information, process hazard analysis, operating procedures, training, contractors, pre-startup safety review, mechanical integrity, hot work permits, management of change, incident investigations, emergency planning and response, audits, and trade secrets
+in USA after Bhopal Tragedy
+Creation and establishment of the U.S. Chemical Safety and Hazard Investigation Board (CSB), an independent federal agency patterned after the National Transportation and Safety Board, to investigate major chemical accidents at fixed facilities
+AIChE Council officially approved the establishment of the Center for Chemical Process Safety (CCPS). The CCPS was fully established as a separate organization from AIChE in September 1985, with a director, parttime staff consultants in the industry, and close to 40 charter corporate 
+members.
+ 
+UEN002 – Energy and Environment
+3 Credits
+•	30 Marks – MST • 50 Marks – End Sem.
+•	20 Marks – Sessional (Quizzes/assignments/group presentations) 
+What is Love Canal?
+•	Love Canal is a section of Niagara Falls, NY near the Niagara river
+•	The canal was part of a larger vision of William Love, who in 1892 dug up the area in order to allow water to flow through Niagara and produce a sprawling industrial city
+•	After Tesla developed alternating current in the mid 1890’s investors pulled out leaving the Love Canal unfinished and basically a big ditch
+The Seeds of the problem
+•	The Hooker Chemical Company bought the canal/ditch in 1940’s as a chemical dump site
+•	Some 25,000 tons of chemicals were dumped in this ditch, at that moment there are no residents
+•	In 1952, Hooker stopped dumping the chemicals and covered it with dirt
+Mistakes are made…
+•	The School Board of Niagara approached Hooker 
+Chemical to sell the patch of land in and around 
+Love Canal for a new school and a park
+•	After much negotiation, Hooker sold the land for $1 telling the new owners about the dump underneath
+•	The 99th Street School was constructed directly on top of the canal in 1953 and houses were build around the school
+The Rain comes…
+•	Niagara Falls has a very high water table and 1977 was an unusually rainy year
+•	That being said, residents began to notice chemicals leeching into their basements
+•	The EPA analyzed nearby basements and found benzene, a serious health risk as well as other chemicals such as chloroform
+Few of the chemicals found in the basements of the residents
+•	Toluene
+• 2,3,7,8-tetrachlorodibenzo-p-dioxin	
+•	benzenehexachlorides
+•	tetrachlorobenzenes 
+•	dichlorobenzenes 
+•	pentachlorbenzene
+•	polychlorinated byphenyls (PCBs) 	•	chloroform 
+•	benzene
+•	methylene chloride
+•	lindane 
+(hexachlorcyclohexane)
+•	tetrachloroethylenes
+•	trichloroethylene
+•	DDT
+The Community Reacts
+ 
+The Community Reacts
+•	A very scared community begins to panic over the implications of these chemicals
+•	Since there was never such a chemical spill before, the government has no idea what to initially do
+•	After many discussions, government on August 7, 1978 pays to move the inner ring houses or the closest to the ditch to new 
+homes
+•	The canal was then remediated and capped so no chemical would leach out
+The Community Reacts
+•	While the inner rings were evacuated, the outer rings were not initially
+•	After 2 years of constant demonstrations and health studies about the nearby residents, the remaining residents were evacuated
+At the end..
+•	Love Canal showed the world that there is a real chemical threat from these dumps
+•	While response teams trained in chemical spills are now in place, the residents of Love Canal were the victims of ignorance about chemicals and how to deal with them.
+•	. Congress drew on information from the Love Canal case when it debated and passed CERCLA, the Comprehensive Emergency Response, Compensation and Liability Act (known informally as the "Superfund" Act). 
+Thank you
+Beas River Pollution 
+Introduction
+•	Punjab : Beas, Chenab, Jhelum, Ravi, and Sutlej
+•	Usage: irrigation, drinking purpose, development of hydro-electric projects
+•	Origin of River Beas:  460 km long originates from two sources, 
+Beas Kund on the South and, Beas Rishi on the right of Rohtang 
+Pass within North-Western Himalaya. The two streams meet at Palchan village, 10 km north of Manali to form river Beas
+•	CONSERVATION RESERVE: Area of River Beas from 52 head 
+Talwara to Harike Barrage
+Sources of Water Pollution in River Beas
+Major Drains
+	13 major drains/choes/nallahs
+	22 creeks/nallahs which are discharging into 02 major drains namely Kahnuwan Swamp Drain and Holy Bein
+	Urban and rural habitation: directly and indirectly 
+Major Sources 
+	Sewage/ sullage generated from Urban Areas
+	Sewage/ sullage generated from Rural Area
+	Industrial Sources
+Sources of Water Pollution in River Beas
+	Sewage/ sullage generated from Urban Areas: 16 local bodies, 6 
+MES authorities, 2 Industrial Focal Points, 01 Jalandhar Development Authority and one Industrial Complex of H.P.
+	Sewage/ sullage generated from Rural Area:75 Villages
+	17 Villages are having discharge more than 300 KLD
+	43 Villages having discharge between 100 KLD and 300 KLD
+	15 Villages having discharge less than 100 KLD
+	Industrial Sources: Brewery, Distillery, Sugar Mill, Paper Mill, 
+Thermal Plant, Food Industry, Pharmaceuticals, Vanaspati, Health 
+Care Facilities, Educational Institutes, Industrial Complex
+Other Sources of Water Pollution in River Beas
+	Bio Medical Waste: 14-15 TPD, 4 authorized Common Bio-Medical 
+Waste Treatment Facilities (CBWTF) 
+	Hazardous Waste: Common Treatment, Storage and Disposal 
+Facility(CTSDF) at Village Nimbuan, Tehsil DeraBassi
+	E-Waste: NOC/ ‘Consent to Operate’ to one dismantling facility, M/s Ramky Enviro Engineers Limited, Tehsil DeraBassi, with capacity to handle 4 TPD of E-waste
+	Solid Waste: Common Action Plan, Common Action Plan 
+Beas River: Pollution Episode 
+•	On 17 May 2018, 12,000 kilolitres of boiling molasses got spilled over into Beas from a mill of Chadha Sugar Industries following an exothermic reaction in its storage tanks. 
+•	Sugar mill situated on its shore at Kiri Afgana village in Gurdaspur district.
+•	As the mill is located next to a drain connected to the river, the impact was immediate. Within hours, locals started spotting dead fishes floating on the water. 
+ 
+•	In the morning of May 16, 2018 around 08:00 AM molasses from the sugar mill started leaking from storage tanks into the storm water drain. 
+•	The sugar mill management failed to stop the leakage which continued for next 30 hours. 
+•	As per report, by 02:00 pm on May 17 an estimated 10,000 kilo liters of molasses leaked into Beas River.
+•	Punjab’s wildlife department has found more than five varieties of fish that became victims of the spillage
+Mismanagement caused leakage:
+•	Because of the bumper sugarcane yield, farmers’ protested in front of mill. The local administration asked the mill to take more sugarcane which was beyond its capacity.
+•	The mill processed more crop, producing more molasses. The extra molasses was stored in the two tanks which were actually constructed for treated effluent
+•	A molasses tank has to be equipped with facilities for re-circulation and for pumping the molasses from one storage tank to another. It should have an air injection system and adequate ventilation on the roof top
+Fatal Impact on Aquatic life
+•	About 80-110 km stretch of river was affected
+•	Water samples were tested at Ludhiana’s Punjab Agricultural 
+University and Guru Angad Dev Veterinary and Animal Sciences 
+University to ascertain if something else may also have been there.
+•	To stabilize the situation, water was released from the Pathankot’s Ranjit Sagar Dam into the river. This was done to wash out the pollutants
+ 
+ 
+ 
+Beas River: Pollution Episode 
+The Punjab Pollution Control Board (PPCB) imposed a fine of Rs 5 crore and also initiated criminal proceedings against Chadha Sugar Mill for spill of molasses into the river Beas on May 17 that killed hundreds of fish and contaminated water for several kilometres, including in canals
+Observations by National Green Tribunal
+•	The industries and local Bodies failed to install and make functional the requisite treatment plants, 35 Municipal Corporation/Nagar Panchyat are discharging sewage with heavy metal and BOD loads in the Rivers 
+•	Despite PPCB efforts, the water quality did not meet the laid down standards
+•	STPs were not having stand-by arrangement during maintenance
+•	Industrial effluents are mixed up with the domestic sewage resulting in damage to the STPs 
+Directions Issued by National Green Tribunal
+•	Secretary, Local Bodies, Punjab, the Municipal Commissioners of Ludhiana and Jalandhar, to jointly take responsibility for taking further steps to prevent any further damage (14.11.2018) 
+•	Prepare Action Plans within two months for bringing all the polluted river stretches to be fit at least for bathing purposes (i.e BOD <3mg/l and FC< 500 MPN/100 ml) within six months from the date of finalization of the action plans 
+•	Action plans may be prepared by 4 member Committee comprising Director, 
+Environment; Director, Urban Development; Director Industries; Member 
+Secretary, SPCB of concerned State (River Rejuvenation Committee)
+State’s Efforts to Control Pollution in River Beas 
+•	Government of Punjab from the year 2008, started taking action to identify the sources of its pollution in coordination with Punjab 
+Pollution Control Board (PPCB)
+•	Total of 11 STPs need to be installed out of which 10 STPs have already been installed, and remaining 01is under various stages of planning for establishment 
+Strategy for Clean River Beas 
+• Identification of the Stakeholders : Department of Science, Technology and Environment, Department of Water Resources, Department of Local 
+Government , Department of Housing and Urban Development , Department of Rural Development and Panchayat , Department of Industries and Commerce , 
+Department of Agricultrue, Department of Forest and Wildlife Conservation, Department of Health and Family Welfare, District Administration, Director 
+Fisheries Punjab, Military Engineering Services, Govt of India for Pathankot and 
+Kapurthala
+Monitoring and Governance
+•	Rigorous monitoring of implementation of the comprehensive plan 
+	Monitoring of physical and financial progress of works being executed
+	Monitoring of operations and management of facilities set up
+	Monitoring of quality of water
+	Monitoring of health and diseases in the surrounding areas
+	Monitoring of awareness campaign 
+•	Setting up of IT platform for tracking progress and analysis
+•	The monitoring will be done at the District level, State Level and Executing
+Committee set up by NGT 
+UEN002 – Energy and Environment
+3 Credits
+•	30 Marks – MST • 50 Marks – End Sem.
+•	20 Marks – Sessional (Quizzes/assignments/group presentations) 
+Where is Chernobyl?
+•	The Chernobyl Power Complex, lying about 130 km north of Kiev, Ukraine, and about 20 km south of the border with Belarus, consisted of four nuclear reactors of the RBMK-1000 design (light water graphite reactor (LWGR). )
+Chernobyl: Nuclear Reactor
+•	Units 1 and 2 were constructed between 1970 and 1977, while units 3 and 4 of the same design were completed in 1983. Two more RBMK reactors were under construction at the site at the time of the accident. 
+•	To the southeast of the plant, an artificial lake of some 22 square kilometres, situated beside the river Pripyat, a tributary of the Dniepr, was constructed to provide cooling water for the reactors.
+•	Within a 30 km radius of the power plant, the total population was between 115,000 and 135,000 at the time of the accident.
+Reactor Plant Scenario
+•	As the reaction occurs, the uranium fuel becomes hot
+•	Graphite was used as moderator
+•	The water, as coolant, pumped through the core in pressure tubes removes the heat from the fuel
+•	The water is then boiled into steam
+•	The steam turns the turbines
+•	The water is then cooled
+•	Then the process repeats
+Chernobyl Nuclear Disaster
+•	Chernobyl disaster took place on April 26, 1986, in the former Soviet Union. It was the result of a flawed reactor design, not properly trained and inadequate personnel.
+•	The technicians allowed the power in the fourth reactor to fall to low levels as part of a controlled experiment which went wrong. As a result, the reactor overheated and caused a meltdown of the core.
+•	The steam explosion and fire released about five percent of the radioactive reactor core into the atmosphere and downwind into the surrounding area. The clouds of deadly radioactive material stayed in the atmosphere for over 10 days.
+Immediate impact of the Chernobyl accident
+•	Serious social and economic disruption for large populations in Belarus, 
+Russia, and Ukraine
+•	Two radionuclides, the short-lived iodine-131 and the long-lived caesium137, were particularly significant for the radiation dose they delivered to members of the public
+•	Radiation doses on the first day were estimated to range up to 20,000 millisieverts (mSv), causing 28 deaths – six of which were firemen – by the end of July 1986
+•	A total of 29,400 km2 was contaminated above 180 kBq/m2
+Chernobyl Nuclear Disaster:Report 21 Feb. 1979
+•	Deviations and violations of construction and assembly technology are occurring… these could lead to mishaps and accidents 
+•	The structural pillars of the generator room were erected with a deviation of up to 100 mm from the reference axes
+•	Wall panels have been installed with a deviation of up to 150 mm from the axes 
+•	Crane tracks and stopways have vertical drops of up to 100 mm and in places a slope of up to 8 degree 
+•	As a result of inadequate monitoring of the condition of safety equipment, in the first three quarters of 1978, 170 individuals suffered work-related injuries, with the loss of work time totaling 3,366 worker-day
+Chernobyl …..Consequence
+•	The people of Chernobyl were exposed to radioactivity 100 times greater than the Hiroshima bomb, killing thirty people immediately.
+•	The clouds of radioactive material spread globally and 70% of the radiation is estimated to have fallen on Belarus. Decades later babies are still being born with no arms, no eyes. 
+•	The accident has victimized over 15 million people in some way and cost over 60 billion dollars in health care. More than 600,000 people involved with the cleanup are now dead or sick
+Chernobyl …..Consequence
+•	An estimated 20 million Soviets were exposed to radioactivity, resulting in as many as 5,000 deaths. The accident may yet cause up to 300,000 deaths, ultimately claiming more victims than did WWII.
+•	In the former Soviet republics of Belarus, Ukraine and Russia there was twice the normal rate of birth defects among those living in the vicinity of the plant. 
+•	Thyroid glands of more than 150,000 people were "seriously affected" by doses of radioactive iodine. 
+•	800,000 children are at risk of contracting leukemia. 
+Direct Casualties
+•	5.5 million people still live in contaminated areas
+•	31 people died in 3 months of radiation poisoning
+•	134 emergency workers suffered from acute radiation sickness
+•	25,000 rescue workers died since then of diseases caused by radiation
+•	Cancer 
+•	Increased birth defects, miscarriages, and stillbirths
+ 
+ 
+ 
+Chernobyl …Environmental Effects
+•	The radioactive fallout was detected all over the world, from Finland to South Africa
+•	Two million acres of land in Belarus and Ukraine, including 20% of Belarus’ farmland, could not be used for farming
+•	One-fifth (1/5) of the republic of Belarus' have to be moved from areas contaminated by radiation, including 27 cities and more than 2,600 villages.
+•	$26 billion was allotted for the resettlement of the 200,000 people still living in the irradiated areas and it may end up costing $400 billion 
+•	It will take up to 200 years before the effects of Chernobyl are no longer felt in the affected areas
+Human Errors
+•	Isolation of the emergency core cooling system
+•	Unsafe amount of control rods withdrawn
+•	Connection of the four main cooling pumps to the right and left of the system
+Summary of Facts
+•	April 26, 1986:
+•	Chernobyl nuclear power plant
+•	Operator errors cause a reactor explosion
+•	Explosion releases 190 tons of radioactive gasses into the atmosphere
+•	Fire starts that lasts 10 days
+•	People:
+•	7 million lived in contaminated areas; 3 million were children
+•	Wind:
+•	Carries radiation far distances
+Thanks 
+Case Study: Seveso Accident ( 10 July 1976)
+Seveso Disaster
+➢Site: Seveso was a town of 20,000 inhabitants located north of Milan, the regional capital of Lombardy, in the area known as Brianza Milanese. After World War Two, chemical industries began to install their plants in this area, given the rich water resources and good infrastructure
+Seveso Disaster
+➢The accident at the origin of the Seveso disaster occurred in the chemical plant of the ICMESA company (located in the adjoining town of Meda), owned by Givaudan, a subsidiary of the Swiss multinational Roche
+Seveso Disaster
+➢TCDD: ICMESA  was producing hexachlorophene, with tricholorophenol produced as an intermediate. During normal operations a small amount of TCDD (2, 3, 7, 8-
+tetrachlorodibenzoparadioxin) is produced as a undesirable side product
+➢Toxicity of TCDD: one of the most potent toxin. Fatal in doses as small as 10-9 times the body weight. Non lethal dosage causes chloracne.
+Seveso Disaster
+Before the Seveso release, several industrial accidents involving TCP were known to have occurred. Among others, these affected the following firms and countries:
+•	1949 Monsanto (USA);
+•	1953 BASF (Germany);
+•	1960 Dow Chemical (USA);
+•	1963 Phillips Duphar (Netherlands);
+•	1968 Coalite Chemical Productions (UK)
+➢On Saturday July 10, 1976, at around 12:30 a.m., the ICMESA trichlorophenol reactor released a toxic cloud of TCDD and other pollutants due to a sudden exothermic reaction that caused a failure of the safety valve
+➢TCDD was dispersed by wind to settle on buildings and backyards in the towns of Meda, Cesano Maderno, Desio, and the most heavily afflicted, Seveso . A subsequent heavy rain washed TCDD into the soil.
+➢In 1976, the extremely harmful effects of dioxin on human health were predicted largely on the basis of toxicological evidence ➢Epidemiological studies with dioxin were still scarce and limited to tracking cohorts of industrial workers (all adult males) accidentally exposed to high concentrations of dioxin 
+➢Unprecedented Incident: scientists were unable to anticipate the damages and unable to identify procedures for decontamination ➢There were no instruments yet available for measuring dioxin levels in human blood
+➢After one week: sudden falling of leaves; death of small animals such as birds and cats; a mysterious skin disease that affected children 
+(chloracne) 
+ 
+➢On July 19--nine days after the spill--Roche experts
+informed Italian authorities that the accident at the ICMESA plant had caused widespread dioxin contamination. Evacuation of part of 
+Seveso's and Meda's population was highly recommended
+➢The evacuation began on July 24: 700 inhabitants of Seveso and Meda were forced to leave their houses and all their personal belongings. 200 people never returned to their houses that were eventually demolished during clean-up operations
+➢“Risk zones” were created, based on the estimated trajectory of the toxic cloud and random tests of dioxin concentration in the ground, but also based on practical feasibility
+➢Teratogenic effects 
+➢Committees of experts were created and asked to supply solutions with respect to health risk, decontamination, and socioeconomic problems
+➢In Europe, the dioxin crisis at Seveso marked the appearance of a new kind of environmental damage: one that might produce delayed rather than immediate effects. Damaging chemical effects might extend to future generations 
+➢The specificities of the damage and the supranational features of the disaster accelerated the process of assigning environmental responsibility to the European Union, an issue that was not envisioned in the 1957 Treaty of Rome
+➢The Seveso disaster was especially influential in establishing the category of “major accident hazards of certain industrial activities” regulated through Directive 82/501/CEE (or “Seveso Directive"). This directive was adopted on 24 June 1982.
+➢A central part of the Directive is a requirement for public information about major industrial hazards and appropriate safety measures in the event of an accident. It is based on recognition that industrial workers and the general public need to know about hazards that threaten them and about safety procedures. This is the first time that the principle of 
+"need to know" has been enshrined in European Community legislation
+➢Subsequent incidents led to amendments to the Seveso Directive, and Seveso II (Directive 96/82/EC) was eventually adopted on 9 December 1996. 
+➢Whilst Seveso I targeted specific activities and included a list of dangerous substances, Seveso II introduced a classification system for dangerous substances (toxic, flammable/explosive, and dangerous for the environment) and specified threshold quantities for certain types, categories and group of categories of such substances. Based on whether the upper or lower threshold is exceeded, Seveso establishments are classified as lower tier or upper tier, with corresponding obligations.
+➢The main reason for the adoption of Seveso III (Directive 2012/18/EU) on 4 July 2012 was Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (the "CLP Regulation") of 16 December 2008.
+➢Significance in Epidemiologic Research : rapid establishment of a long-term health surveillance program of the population, which included - critically - collection and storage of biosamples from a large number of affected individuals despite the fact that methods to analyze exposure in those samples had not yet been developed ➢Careful follow-up of individuals with acute responses to the exposure, in this case, children with chloracne, and development or augmentation of health registries, such as birth defect and cancer registries, to capture information on health effects that could present themselves years after initial exposure

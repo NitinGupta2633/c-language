@@ -1,0 +1,186 @@
+Ques.1....     WAP to accept a three digits integer number, and display the number as follows:
+
+First line: all digits
+Second line: all except the first digit
+Third line: all except the first two digits
+Example: 123
+Output: 123
+23
+3
+
+
+
+input...
+#include<stdio.h>
+int main()
+{
+	int x,y,z;
+	printf("enter a three digit number");
+	scanf("%d",&x);
+	y=x%10;
+	z=x%100;
+	printf("\n%d",x);
+	printf("\n%d",z);
+	printf("\n%d",y);
+}
+
+
+output....
+
+
+
+enter a three digit number657
+
+657
+57
+7
+
+
+Ques.1....   WAP which will accept a three digits integer number and do the followings:
+i) Check it is an Armstrong number or not. (Hint: A number is an Armstrong number when the sum
+of nth power of each digit is equal to the number itself. Here ‘n’ is the number of digits in the
+given number. For example, 371 is an Armstrong number since 3^3 + 7^3 + 1^3 = 371. (Hint: use
+conditional operator “?:” to avoid if statement. For example, r=2, n=10; printf("%s", (r==n)?
+"Yes": "No"))
+ii) Check it is an automorphic number or not (Hint: An automorphic number is a number whose
+square ends with the number itself. For example, 5 is an automorphic number, 5*5 =25. The last
+digit is 5 which same as the given number. (Hint: use conditional operator “?:” to avoid if
+statement. For example, r=2, n=10; printf("%s", (r==n)? "Yes": "No"))
+
+
+(i)
+input....
+
+
+
+
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int a,b,c,d,num;
+    printf("enter a three digit number to check whether it is armstrong or not");
+    scanf("%d",&a);
+    num=a;
+    b=a%10;
+    a=a/10;
+    c=a%10;
+    a=a/10;
+    d=a%10;
+    (pow(b,3)+pow(c,3)+pow(d,3)==num?printf("given number is an armstrong number"):printf("number is not armstrong"));
+    return 0;
+}
+
+output
+
+enter a three digit number to chheck whether it is armstrong or not234
+number is not armstrong
+
+
+
+Ques.3........
+WAP a program which will accept a number (x) in degree and print its sin(x) and cos(x) function values.
+(Hint: convert the degree to radians first. Test it for 0, 30, 45, 60, and 90 and print the results up to 2
+decimals.)
+
+input...
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int a;
+    float b,c,d;
+    printf("enter angle in degrees");
+    scanf("%d",&a);
+    b=(a*3.14)/180;
+    c=sin(b);
+    d=cos(b);
+    printf("the values of sin and cos are %.2f and %.2f respectively",c,d);
+    return 0;
+}
+
+
+output...
+enter angle in degrees56
+the values of sin and cos are 0.83 and 0.56 respectively
+
+
+
+
+enter angle in degrees67
+the values of sin and cos are 0.92 and 0.39 respectively
+
+
+
+Ques.4...Write a program which accepts three numbers and find the smallest and greatest among them using conditional operators.
+#include<stdio.h>
+int main()
+{
+    int a,b,c;
+    printf("enter three numbers\n");
+    scanf("%d%d%d",&a,&b,&c);
+    (a>b?(a>c?printf("a is greatest"):printf("c is greatest")):(b>c?printf("b is greatest"):printf("c is greatest")));
+    return 0;
+}
+
+output..
+enter three numbers
+5
+6
+7
+c is greatest
+
+Ques .5...
+(5)Write a program which will accept a three digit integer number and print it in reverse order.
+#include<stdio.h>
+int main()
+{
+    int a,b,c,d;
+    printf("enter a three digit number to be reversed");
+    scanf("%d",&a);
+    b=a%10;
+    a=a/10;
+    c=a%10;
+    a=a/10;
+    d=b*100+c*10+a;
+    printf("the reversed number is %d",d);
+    return 0;
+}
+output...
+
+
+
+enter a three digit number to be reversed798
+the reversed number is 897
+
+
+
+Ques.6......
+Write a program which will accept a floating point number which have three digits before the decimal number and then display the following:
+First line: right most digit of the integral part of the number
+Second line: the two rigit most digit of the integral part of the number
+Third line: all the digits of the integral part of the number.
+
+
+input........
+#include<stdio.h>
+int main()
+{
+    float a;
+    int b;
+    printf("enter a three digit number upto two decimal places");
+    scanf("%f",&a);
+    b=a;
+    printf("%d\n",b%10);
+    printf("%d\n",b%100);
+    printf("%d\n",b%1000);
+    return 0;
+}
+
+
+output..
+
+enter a three digit number upto two decimal places678.89
+8
+78
+678

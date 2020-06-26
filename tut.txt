@@ -1,0 +1,325 @@
+computer programing tut-2                                                                                                                   Nitin Gupta 
+                                                                                                                                            101903743
+                                                                                                                                             k-6
+
+
+
+Ques 1..  WAP to compute the gross salary of an employee whose details are given below:  
+         Basic pay: Rs.50, 000, dearness allowance: 50% of Basic pay, house rent allowance: 20% of Basic
+         pay, vehicle allowance: 10% of the Basic pay.
+
+
+#include<stdio.h>
+int main()
+{
+	float a,b,c,d,e;
+	printf("enter basic salary");
+	scanf("%f",&a);
+	b=a*0.5;
+	c=a*0.2;
+	d=a*0.1;
+	e=a+b+c+d;
+	printf("\ndream allowance=%f",b);
+	printf("\nhouse rent allowance=%f",c);
+	printf("\nvehical allowance=%f",d);
+	printf("\ngross salary=%f",e);
+	return 0;
+	
+}
+
+output
+
+enter basic salary50000
+
+dream allowance=25000.000000
+house rent allowance=10000.000000
+vehical allowance=5000.000000
+gross salary=90000.000000
+
+
+
+Ques 2...The price of one pen is Rs.10, one pencil is Rs. 5, and one sharpener is Rs. 2. You purchased 2
+         pens, 3 pencils and 1 sharpener. Compute the total price as per the following format.
+        ****** LIST OF ITEMS ******   Item Price (Rs.)    Total (Rs.)
+                      Pen                 10                20
+                      Pencil               5                15
+                      Sharpener            2                 2 
+                      Grand Total (Rs.)   17                37
+
+
+
+
+
+#include<stdio.h>
+int main()
+{
+	int a,b,c,d,e,f,g,h;
+	printf("enter no of pens");
+	scanf("%d",&a);
+	printf("enter no of pencil");
+	scanf("%d",&b);
+	printf("enter no of sharpner");
+	scanf("%d",&c);
+	d=a*10;
+	e=b*5;
+	f=c*2;
+	g=d+e+f;
+	h=17;
+	printf("\nitem			  price(rs)		total(rs)");
+	printf("\npen			     10			  %d",d);
+	printf("\npencil	       		     5			  %d",e);
+	printf("\nsharpner	    	     2			  %d",f);
+	printf("\ngrand total	      	    %d	   	 %d",h,g);
+}
+
+
+
+
+
+output
+
+enter no of pens50
+enter no of pencil50
+enter no of sharpner20
+
+item                      price(rs)             total(rs)
+pen                          10                   500
+pencil                       5                    250
+sharpner                     2                    40
+grand total                 17                   790
+
+
+
+
+
+Ques 3... WAP which will print the ‘$’ symbol in the following format. (Hint: No need to use any loops)
+$
+$ $
+$ $ $
+$ $ $
+$ $ $
+
+
+#include<stdio.h>
+int main()
+{
+	printf("$");
+	printf("\n$	$");
+	printf("\n$	$	$");
+	printf("\n$	$	$	");
+	printf ("\n$	$	$	");
+	return 0;
+}
+
+
+output
+
+
+$
+$       $
+$       $       $
+$       $       $
+$       $       $
+
+
+
+
+
+
+Ques 4.....   WAP which will accept two floating point numbers, assign their sum to an integer variable and
+then output the values of all three variables.
+
+
+
+
+
+#include<stdio.h>
+int main()
+{
+	int a;
+	float x,y;
+	printf("enter two number");
+	scanf("%f %f",&x,&y);
+	printf("value of first number=%f",x);
+	printf("\nvalue of second number=%f",y);
+	a=x+y;
+	printf("\nsum=%d",a);
+	return 0;
+}
+
+
+
+
+output   
+
+enter two number756467.76
+889.097
+value of first number=756467.750000
+value of second number=889.096985
+sum=757356
+
+
+
+
+
+
+
+Ques 5.....WAP to swap two numbers using and without using a third variable.
+
+
+#include<stdio.h>
+int main()
+{
+	int a,b;
+	printf(" \nenter value of a=");
+	scanf("%d",&a);
+	printf("\nenter value of b= ");
+	scanf("%d",&b);
+	a=a+b;
+	b=a-b;
+	a=a-b;
+	printf("\nafter swapping");
+	printf("\nvalue of a=%d",a);
+	printf("\nvalue of b=%d",b);
+    return 0;
+}
+
+
+
+output
+enter value of a=7687
+
+enter value of b= 66787
+
+after swapping
+value of a=66787
+value of b=7687
+
+
+
+Ques 6....Extend the above program for three variables a, b, and c such that a holds the value of c, b holds
+the value of a, and c holds the value of b using and without using a third variable.
+
+
+
+#include<stdio.h>
+int main()
+{
+	int a,b,c;
+	printf("\nenter value of a ,b ,c");
+	scanf("%d %d %d",&a,&b,&c);
+	printf("\nafter swapping");
+	a=a+b+c;
+	b=a-b-c;
+	c=a-b-c;
+	a=a-b-c;
+	printf("\nvalue of a=%d",a);
+	printf("\nvalue of b=%d",b);
+	printf("\nvalue of c=%d",c);
+	return 0;
+	
+	return 0;
+	
+	
+}
+
+
+
+output
+
+
+
+enter value of a ,b ,c456
+575
+67
+
+after swapping
+value of a=67
+value of b=456
+value of c=575
+
+
+
+
+Ques 7.....WAP which will accept a three digits integer number and display the sum and product of all the
+digits of that number.
+
+
+
+#include<stdio.h>
+int main()
+{
+	int r,x,y,z,sum,product;
+	printf("enter a three digit number");
+	scanf("%d",&x);
+	y=x%10;
+    z=(x/10)%10;
+    r=(x/100)%10;
+    sum=y+z+r;
+    product=y*z*r;
+    printf("sum=%d",sum);
+    printf("\nproduct=%d",product);
+    return 0;
+    
+
+}
+
+
+
+
+output
+
+
+enter a three digit number545
+sum=14
+product=100
+
+
+
+
+
+Ques 8....WAP to find the size of various primitive data types used in C such as int, float, double and char.
+
+
+
+#include<stdio.h>
+int main()
+{
+	
+	
+	printf("size of int data type=%d\n",sizeof(int));
+	printf("size of float data type=%d\n",sizeof(float));	
+	printf("size of char data type=%d\n",sizeof(char));
+	printf("size of double data type=%d\n",sizeof(double));
+	return 0;
+}
+
+
+
+output  
+
+
+size of int data type=4
+size of float data type=4
+size of char data type=1
+size of double data type=8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

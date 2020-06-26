@@ -1,0 +1,354 @@
+computer programming   tut -1
+
+
+
+Ques 1....WAP which will format console output using '\n', '\t', '\b' within printf statement.
+
+
+#include<stdio.h>
+int main()
+{
+	printf("my name is\n nitin gupta");
+	printf(" \tmy name is nitin gupta");
+	printf("\nmy name is\bnitin gupta");
+	return 0;
+}
+output
+
+
+my name is
+ nitin gupta    my name is nitin gupta
+my name initin gupta
+
+
+
+Ques 2.....WAP to print ‘See C is Sea’ five times on the console.
+#include<stdio.h>
+int main()
+{
+	printf("See c is sea\n");
+	printf("See c is sea\n");
+	printf("see c is sea\n");
+	printf("see c is sea\n");
+	printf("see c is sea");
+}
+output
+See c is sea
+See c is sea
+see c is sea
+see c is sea
+see c is sea
+
+
+Ques 3.....WAP which will accept an integer, a decimal number, a character and a string from the keyboard
+and display them one per line.
+
+
+#include<stdio.h> 
+          int  main() 
+          {
+		  char v;
+		  int a;
+		 float b;
+	    printf("enter a character="); 
+            scanf("%c",&v); 
+            
+            printf("enter integer no.="); 
+            scanf("%d",&a); 
+ 
+             
+            printf("enter decimal no.="); 
+            scanf("%f",b); 
+ 
+             
+               return 0;
+            } 
+ output......
+enter a character=r
+enter integer no.=56
+enter decimal no.=546.564
+
+
+
+
+   Ques 4....   WAP that will print your mailing address in the following format
+First line : Your Name
+Second line : House No, Street
+Third line : City
+Fourth line : State, Pin code
+
+
+           #include<stdio.h> 
+            int main() 
+           { 
+                char name[20]; 
+                int houseno; 
+                int street; 
+                char city[30]; 
+                char state[15]; 
+                int pincode; 
+                printf("Enter Name=\n"); 
+                scanf("%s",&name); 
+                printf("Enter House No.=\n"); 
+                scanf("%d",&houseno); 
+                printf("Enter street NO.=\n"); 
+                scanf("%d",&street); 
+                printf("Enter City name=\n"); 
+                scanf("%s",&city); 
+                printf("Enter Pin Code="); 
+                scanf("%d",&pincode);
+                  return0; 
+                } 
+ 
+output...
+Enter Name=
+nitin
+Enter House No.=
+213
+Enter street NO.=
+4
+Enter City name=
+mandi gobindgarh
+Enter Pin Code=
+
+
+
+
+Ques 5.....WAP which will accepts two integers (a and b) from the input device and display the results of
+their sum, difference, product, division and mod on the console by assuming a simple arithmetic
+calculator. Repeat the same for two decimal numbers.
+
+
+
+
+#include<stdio.h>
+int main()
+{
+	int x,y,a,b,c;
+	float d,e;
+	printf("enter two number");
+	scanf("%d %d",&x,&y);
+	a=x+y;
+	b=x-y;
+	c=x*y;
+	d=x/y;
+	e=x%y;
+	printf("sum=%d\n",a);
+	printf("diffrence=%d\n",b);
+	printf("product=%d\n",c);
+	printf("divison=%f\n",d);
+	printf("mod=%f\n",e);
+	return 0;
+}
+
+
+
+output...enter two number456
+67
+sum=523
+diffrence=389
+product=30552
+divison=6.000000
+mod=54.000000
+
+
+
+
+*....... for decimal numbers......
+
+
+
+#include<stdio.h>
+int main()
+{
+	
+	float x,y,a,b,c,d;
+	printf("enter two number");
+	scanf("%f %f",&x,&y);
+	a=x+y;
+	b=x-y;
+	c=x*y;
+	d=x/y;
+	
+	printf("sum=%f\n",a);
+	printf("diffrence=%f\n",b);
+	printf("product=%f\n",c);
+	printf("divison=%f\n",d);
+	
+	return 0;
+}
+
+
+output...
+enter two number57.54645
+5457.456
+sum=5515.002441
+diffrence=-5399.909668
+product=314057.218750
+divison=0.010545
+
+Ques 6......WAP which will compute the simple and compound interest and display them on the console.
+
+
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+	
+	float a,b,c,d,e,f,g,h,i,j; 
+	printf("enter the principal amount\n");
+	printf("enter rate of interest\n");
+	printf("enter time in months\n");
+	printf("enter no times the interest  shoud be compounded(for compund interest)\n");
+	scanf("%f%f%f%f",&a,&b,&c,&f);
+	d=a*b*c/100;
+	e=c*f;
+	g=(1+b/c*0.01);
+        h=pow(g,e);
+	i=a*h;
+	j=i-a;
+	printf("simple interest=%f\n",d);
+	printf("compound interest =%f\n",j);	
+	return 0;
+}
+
+
+
+output......
+
+
+enter the principal amount
+enter rate of interest
+enter time in months
+enter no times the interest  shoud be compounded(for compund interest)
+5000
+5
+12
+10
+simple interest=3000.000000
+compound interest =3235.102539
+
+
+
+Ques 7.....WAP that reads the values of three variables a, b and c from the input device and then compute
+and display the value of d, where d = (a-b)/(b+c).
+
+
+#include<stdio.h>
+
+#int main()
+{
+	
+	float a,b,c,d;
+	printf("enter value of a,b,c\n");
+    scanf("%f%f%f",&a,&b,&c);
+	d=(a-b)/(b+c);
+	printf("value of d=%f",d);
+	
+	return 0;
+} 
+output...
+enter value of a,b,c
+567
+64
+67
+value of d=3.839695
+
+
+Ques....8
+Relationship between Celsius (C) and Fahrenheit (F) is governed by the following formula
+F = 9C/5 + 32
+WAP to convert the Celsius to Fahrenheit and vice versa.
+
+
+#include<stdio.h>
+
+int main()
+{
+	
+	float c,f;
+	printf("enter value of temp in celsius");
+	scanf("%f",&c);
+	f=1.8*c+32;
+	printf("temp in fahrenite %f",f);
+	
+	return 0;
+}
+
+
+
+output.......
+
+#include<stdio.h>
+
+int main()
+{
+	
+	float c,f;
+	printf("enter value of temp in celsius");
+	scanf("%f",&c);
+	f=1.8*c+32;
+	printf("temp in fahrenite %f",f);
+	
+	return 0;
+}
+
+***vice versa
+
+
+#include<stdio.h>
+
+int main()
+{
+	
+	float c,f;
+	printf("enter value of temp in fahrenite");
+	scanf("%f",&f);
+	c=(f-32)*0.555;
+	printf("temp in celsius %f",c);
+	
+	return 0;
+}
+
+
+output.....
+enter value of temp in fahrenite100
+temp in celsius 37.740002 
+
+
+Ques 8.....Area (A) of a triangle is given by the formula  =  −  −  −
+           Where a, b and c are sides of the triangle and 2S = a + b + c. WAP to compute the area of the 
+           triangle given the values of a, b and c.
+
+
+
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+	
+	float a,b,c,d,s,A;
+	printf(" enter value of three sides of triangle ");
+	scanf("%f%f%f",&a,&b,&c);
+        s=a*0.5+b*0.5+0.5*c;
+	d=s*(s-a)*(s-b)*(s-c);
+	A=sqrt(d);
+	printf("area of traingle is=%f",A);
+	
+	return 0;
+}
+
+output......
+
+
+enter value of three sides of triangle 30
+54.5
+67.1
+area of traingle is=802.078613
+
+
+
+Ques 9......The line joining the points (2, 2) and (5, 6) which lie on the circumference of a circle is the
+diameter of the circle. WAP to compute the area and perimeter of the circle.
+
+
